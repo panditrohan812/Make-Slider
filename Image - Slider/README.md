@@ -47,7 +47,6 @@ Image-Slider/
 
 https://github.com/panditrohan812/Make-Slider
 
-
 ## 📸 Preview
 
 The slider includes:
@@ -59,9 +58,7 @@ The slider includes:
 
 ## 👨‍💻 Author
 
-**Your Name**
-
 **Pandit Rohan**
 
 ## 🙏 Thank You
-```
+
