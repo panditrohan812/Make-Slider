@@ -38,15 +38,14 @@ Image-Slider/
 
 ## ▶️ How to Run the Project
 
-1. Download or Clone this repository.
-2. Open the project folder.
-3. Open `index.html` in your web browser.
+1. Download the project.
+2. Extract the ZIP file (if downloaded as ZIP).
+3. Open the project folder.
+4. Open `index.html` in your web browser.
 
-Or clone using Git:
+## 🔗 GitHub Repository
 
-```bash
-git clone https://github.com/your-username/image-slider.git
-````
+https://github.com/panditrohan812/Make-Slider
 
 ## 📸 Preview
 
@@ -58,8 +57,6 @@ The slider includes:
 - Smooth User Experience
 
 ## 👨‍💻 Author
-
-**Your Name**
 
 **Pandit Rohan**
 
